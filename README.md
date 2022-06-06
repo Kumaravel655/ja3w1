@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
 </LinearLayout>
 ```
 ## CustomAdaptor.Java
-```
+```java
 package com.example.unit3;
 import android.content.Context;
 import android.view.LayoutInflater;
